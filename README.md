@@ -53,7 +53,7 @@ Adicione o projeto ao server
 
 # 6º Passo
 Ligue o server
-  -Clique com o botão direito no Tomcat la embaixo
+  -Clique com o botão direito no Tomcat
   -Clique em "Start"
   -Va para o Browser e acesse "http://localhost:8000/ESIIItest/index.jsp"
       -nota: pode ser que você tenha que mudar a porta
